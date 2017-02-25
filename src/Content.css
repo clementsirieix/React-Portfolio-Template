@@ -1,0 +1,20 @@
+/* Add some cool stuff here */
+
+.Content {
+  opacity: 0;
+  animation: fadein 0.3s ease forwards;
+}
+
+footer {
+  position: absolute;
+  bottom: 16px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+@keyframes fadein {
+  to {
+    opacity: 1;
+  }
+}

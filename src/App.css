@@ -1,0 +1,8 @@
+/* Add some cool stuff here */
+
+.App-loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

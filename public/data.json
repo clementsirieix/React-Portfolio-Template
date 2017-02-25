@@ -1,0 +1,36 @@
+{
+  "title": "Hi my name is John",
+  "text": "The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion! Stay focused. Always remember in the jungle there’s a lot of they in there, after you overcome they, you will make it to paradise. To succeed you must believe. When you believe, you will succeed. You see that bamboo behind me though, you see that bamboo? Ain’t nothin’ like bamboo. Bless up. The key is to drink coconut, fresh coconut, trust me. Egg whites, turkey sausage, wheat toast, water. Of course they don’t want us to eat our breakfast, so we are going to enjoy our breakfast.",
+  "links": [
+    {
+      "title": "Bamboo",
+      "link": "#"
+    },
+    {
+      "title": "Focus",
+      "link": "#"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Weather",
+      "href": "#",
+      "desc": "Let’s see what Chef Dee got that they don’t want us to eat."
+    },
+    {
+      "title": "Lion",
+      "href": "#",
+      "desc": "In life there will be road blocks but we will over come it."
+    },
+    {
+      "title": "Coconut",
+      "href": "#",
+      "desc": "It’s important to shape up your hedges, it’s like getting a haircut, stay fresh."
+    },
+    {
+      "title": "Egg whites",
+      "href": "#",
+      "desc": "How’s business? Boomin. "
+    }
+  ]
+}
